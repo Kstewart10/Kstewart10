@@ -1,7 +1,28 @@
-## Hi there 👋
+<h1>Hi, I'm Keshon!</h1>
+
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>Azure Cloud Projects</h2>
+
+  - [Insert Azure cloud project here](https://google.com)
+
+<h2>📄 Certifications</h2>
+
+- [Comptia Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [AZ-900 Introduction to Azure](https://google.com)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/Holy.kicks_/
+[linkedin]: https://www.linkedin.com/in/keshon-stewart-75115b107/
 
 <!--
-**Kstewart10/Kstewart10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
