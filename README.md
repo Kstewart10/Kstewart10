@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
   - [Active Directory Home Lab](https://github.com/Kstewart10/ActiveDirectoryLab)
+  - [SIEM Lab Using Azure Sentinel](https://github.com/Kstewart10/SiemLab/)
 
 <h2>Azure Cloud Projects</h2>
 
