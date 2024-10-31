@@ -5,6 +5,7 @@
   - [Active Directory Home Lab](https://github.com/Kstewart10/ActiveDirectoryLab)
   - [SIEM Lab Using Azure Sentinel](https://github.com/Kstewart10/SiemLab/)
   - [File Integrity Monitor](https://github.com/Kstewart10/FileIntegrityMonitor)
+  - [Rest API Project](https://github.com/Kstewart10/RestAPI)
 
 <h2>Azure Cloud Projects</h2>
 
