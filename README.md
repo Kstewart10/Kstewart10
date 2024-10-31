@@ -6,12 +6,12 @@
 
 <h2>Azure Cloud Projects</h2>
 
-  - [Insert Azure cloud project here](https://google.com)
+  - [Placeholder (In Progress)](https://google.com)
 
 <h2>📄 Certifications</h2>
 
-- [Comptia Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [AZ-900 Introduction to Azure](https://google.com)
+- [Comptia Security+](https://www.credly.com/badges/7b0b1fdf-5021-44b8-8bb0-417f417c0bcf/linked_in_profile)
+- [AZ-900 Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/keshonstewart-3775/credentials/7b1fb5e37ed5c387?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 <h2> 🤳 Connect with me:</h2>
 
